@@ -32,7 +32,6 @@ workflow execution.
 - 🤖 Machine Learning
 - 🌐 Backend Development
 - 🏗️ Software Engineering
-- 📐 System Design
 
 ## 🎯 Goals
 

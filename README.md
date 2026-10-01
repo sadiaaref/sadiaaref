@@ -1,42 +1,43 @@
 # Hi, I'm Sadia Aref 👋
 
-### BTech Information Technology Student | Python | Machine Learning | Software Engineering
+🎓 B.Tech Information Technology Student  
+🐍 Python | 🤖 Machine Learning | 💻 Software Development
 
-I am an Information Technology student interested in building practical software systems and learning how reliable applications are designed, tested, and improved.
+I enjoy building practical software projects and learning how
+software systems can be designed, tested, and improved.
 
-## What I Build
-
-- Python applications and backend systems
-- Machine learning projects
-- Web applications using HTML & CSS
-- Reliable and testable software systems
-- Data-driven applications
-
-## Featured Projects
-
-### SRE Incident Intelligence
-An explainable Python system for analyzing structured incidents and ranking investigation hypotheses.
-
-### EventFlow Reliable Workflow Engine
-A Python workflow engine focused on reliable job execution, idempotency, retries, worker leases, and failure recovery.
-
-## Currently Learning
+## 🛠️ Skills
 
 - Python
 - Machine Learning
+- SQL
+- HTML & CSS
+- Git & GitHub
+- SQLite
+- Tkinter
+
+## 🚀 Featured Projects
+
+### SRE Incident Intelligence
+An explainable incident triage and investigation-assistance project built with Python.
+
+### EventFlow Reliable Workflow Engine
+A Python project focused on reliable event-driven workflow processing.
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Machine Learning
 - Backend Development
 - Software Engineering
-- Data Structures & Algorithms
-- Git & GitHub
+- System Design Fundamentals
 
-## Technologies
+## 🎯 Goals
 
-**Languages:** Python, HTML, CSS
+Build reliable and useful software while continuously improving
+my programming and engineering skills.
 
-**Backend & Data:** APIs, SQLite
+## 🔗 Connect With Me
 
-**Tools:** Git, GitHub, Docker, GitHub Actions
-
-## Connect
-
-[GitHub](https://github.com/sadiaaref)
+- [LinkedIn](https://www.linkedin.com/in/sadia-aref-9615b3418/)
+- [GitHub](https://github.com/sadiaaref)

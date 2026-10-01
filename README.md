@@ -31,7 +31,7 @@ A Python workflow engine focused on reliable job execution, idempotency, retries
 
 ## Technologies
 
-**Languages:** Python, Java, HTML, CSS
+**Languages:** Python, HTML, CSS
 
 **Backend & Data:** APIs, SQLite
 

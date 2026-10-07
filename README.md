@@ -34,7 +34,7 @@ An explainable incident analysis engine that converts structured incident signal
 
 **Tools:** Git, GitHub, Docker, GitHub Actions, Pytest
 
-**AI/ML:** Machine Learning, Generative AI, LLMs, Prompt Engineering, RAG
+**AI/ML:** Generative AI, Prompt Engineering, 
 
 **Web:** HTML, CSS
 

@@ -48,7 +48,7 @@ An explainable incident analysis engine that converts structured incident signal
 
 ## What I'm Looking For
 
-Software engineering opportunities where I can work on real products, solve engineering problems, and continue developing strong software engineering fundamentals.
+Software engineering opportunities with a strong interest in AI/ML where I can work on real products, solve engineering problems, and continue developing strong software engineering fundamentals.
 
 ---
 

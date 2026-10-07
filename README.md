@@ -1,72 +1,55 @@
 # Hi, I'm Sadia Aref 👋
 
-🎓 **B.Tech Information Technology Student**  
-🐍 Python | 💻 Backend Development | 🤖 Machine Learning
+**B.Tech Information Technology | Python | Backend Engineering | Software Engineering**
 
-I'm an Information Technology student passionate about building practical software, exploring backend systems, and understanding how reliable applications are designed, developed, and tested.
+I build practical software systems focused on reliability, backend engineering, automation, and developer-facing tools.
 
-I enjoy learning by building projects that solve engineering problems and strengthen my programming skills.
+My projects explore real engineering problems such as **concurrency, fault tolerance, retries, idempotency, incident analysis, APIs, persistence, and testing**.
 
----
+## Featured Projects
 
-## 🛠️ Technical Skills
+### EventFlow — Reliable Workflow Engine
+A Python and SQLite workflow engine for reliable background job execution.
 
-**Languages:** Python, SQL  
-**Backend:** REST APIs, Backend Development  
-**Databases:** SQLite, MySQL  
-**Tools:** Git, GitHub, Docker, GitHub Actions, Pytest  
-**AI/ML:** Machine Learning, Generative AI, LLMs  
+**Focus:** concurrency, retries, idempotency, worker coordination, lease recovery, priority scheduling, dead-letter queues, persistence, and failure handling.
+
+→ [View Project](https://github.com/sadiaaref/eventflow-reliable-workflow-engine)
+
+### SRE Incident Intelligence
+An explainable incident analysis engine that converts structured incident signals into ranked investigation guidance.
+
+**Focus:** risk scoring, blast-radius analysis, deployment correlation, hypothesis ranking, anomaly detection, historical similarity, REST APIs, CLI tooling, and testing.
+
+→ [View Project](https://github.com/sadiaaref/sre-incident-intelligence)
+
+## Technical Skills
+
+**Languages:** Python, SQL
+
+**Backend:** REST APIs, Backend Development
+
+**Databases:** SQLite, MySQL
+
+**Software Engineering:** Object-Oriented Programming, Concurrency, Error Handling, Testing
+
+**Tools:** Git, GitHub, Docker, GitHub Actions, Pytest
+
+**AI/ML:** Machine Learning, Generative AI, LLMs, Prompt Engineering, RAG
+
 **Web:** HTML, CSS
 
----
+## Currently Focused On
 
-## 🚀 Featured Projects
+- Data Structures & Algorithms
+- Backend Engineering
+- Software Engineering
+- Systems and Reliability
+- Building production-oriented projects
 
-### 🔍 [SRE Incident Intelligence](https://github.com/sadiaaref/sre-incident-intelligence)
+## What I'm Looking For
 
-A Python-based incident analysis engine that helps investigate production issues by evaluating incident signals, service dependencies, and deployment changes.
-
-- Generates root-cause hypotheses and incident recommendations.
-- Estimates impact and potential blast radius.
-- Provides CLI and REST API interfaces.
-- Uses SQLite, Docker, and automated tests.
-
-**Technologies:** Python, REST APIs, SQLite, Docker, Pytest
-
-### ⚙️ [EventFlow Reliable Workflow Engine](https://github.com/sadiaaref/eventflow-reliable-workflow-engine)
-
-A Python-based workflow engine designed for reliable event processing and fault-tolerant job execution.
-
-- Supports asynchronous job execution and scheduling.
-- Implements retries and idempotency.
-- Handles concurrency and recovery scenarios.
-- Includes a CLI and automated tests.
-
-**Technologies:** Python, SQLite, Distributed Systems
+Software engineering opportunities where I can work on real products, solve engineering problems, and continue developing strong software engineering fundamentals.
 
 ---
 
-## 📚 Currently Learning
-
-- Data Structures and Algorithms
-- Backend Development
-- Machine Learning
-- Software Engineering Principles
-- System Design Fundamentals
-
----
-
-## 🎯 Goals
-
-To strengthen my engineering fundamentals, build useful software, contribute to real-world projects, and grow as a software engineer through continuous learning and practical experience.
-
----
-
-## 🔗 Connect With Me
-
-- **LinkedIn:** [Sadia Aref](https://www.linkedin.com/in/sadia-aref-9615b3418/)
-- **GitHub:** [@sadiaaref](https://github.com/sadiaaref)
-
----
-
-⭐ *Always learning, building, and improving.*
+**GitHub:** [github.com/sadiaaref](https://github.com/sadiaaref)

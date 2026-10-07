@@ -38,14 +38,6 @@ An explainable incident analysis engine that converts structured incident signal
 
 **Web:** HTML, CSS
 
-## Currently Focused On
-
-- Data Structures & Algorithms
-- Backend Engineering
-- Software Engineering
-- Systems and Reliability
-- Building production-oriented projects
-
 ## What I'm Looking For
 
 Software engineering opportunities with a strong interest in AI/ML where I can work on real products, solve engineering problems, and continue developing strong software engineering fundamentals.
